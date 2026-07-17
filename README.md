@@ -8,14 +8,14 @@
 
 📍 Barueri - SP
 
-##Tecnologias
+## Tecnologias
 -  HTML5
 -  CSS3
 -  JavaScript
 -  GitHub
 -  Figma
   
-##Projetos em destaque
+## Projetos em destaque
 🌱 EcoVida
 
 Site institucional responsivo desenvolvido durante o curso Web Designer Front-end.
@@ -28,7 +28,7 @@ Projeto de UI/UX para e-commerce pet desenvolvido no Figma.
 
 Aplicação desenvolvida utilizando HTML, CSS e JavaScript.
 
-##Contato
+## Contato
 
 📧 Email: anabelasg_1997@hotmail.com
 
