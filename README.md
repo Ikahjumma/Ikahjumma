@@ -20,9 +20,9 @@
 
 Site institucional responsivo desenvolvido durante o curso Web Designer Front-end.
 
-🐾 Universo Pet
+<!--🐾 Universo Pet
 
-Projeto de UI/UX para e-commerce pet desenvolvido no Figma.
+Projeto de UI/UX para e-commerce pet desenvolvido no Figma.-->
 
 🧮 Calculadora IMC
 
