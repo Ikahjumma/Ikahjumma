@@ -12,7 +12,6 @@
 -  HTML5
 -  CSS3
 -  JavaScript
--  GitHub
 -  Figma
   
 ## Projetos em destaque
